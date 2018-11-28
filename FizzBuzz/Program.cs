@@ -1,5 +1,5 @@
 ﻿using System;
-
+// dotnet new console
 namespace FizzBuzz
 {
     class Program
