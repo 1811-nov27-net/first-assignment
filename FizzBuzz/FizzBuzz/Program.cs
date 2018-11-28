@@ -7,7 +7,7 @@ namespace FizzBuzz
         static void Main(string[] args)
         {
             int fizzCount = 0, buzzCount = 0, fizzBuzzCount = 0;
-            for(int i=0;i<1000;i++)
+            for(int i=1;i<1001;i++)
             {
                 bool three=false,five=false;
                 
