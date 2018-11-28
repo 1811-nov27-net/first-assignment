@@ -691,13 +691,13 @@
       "projectName": "FizzBuzz.UI",
       "projectPath": "/Users/howardtran/Revature/first-assignment/FizzBuzz.UI/FizzBuzz.UI.csproj",
       "packagesPath": "/Users/howardtran/.nuget/packages/",
-      "outputPath": "/Users/howardtran/Revature/first-assignment/FizzBuzz.UI/obj/",
+      "outputPath": "/Users/howardtran/Revature/first-assignment/FizzBuzz.UI/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/howardtran/.nuget/NuGet/NuGet.Config"
+        "/Users/howardtran/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -720,8 +720,9 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
-            "version": "[2.1.0, )",
+            "version": "2.1",
             "autoReferenced": true
           }
         },
