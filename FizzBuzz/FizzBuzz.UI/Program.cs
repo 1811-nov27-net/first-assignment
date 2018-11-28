@@ -10,7 +10,7 @@ namespace FizzBuzz.UI
             int fizzbuzz = 0;
             int fizz = 0;
             int buzz = 0;
-            for(int i = 1; i < 1000; i++)
+            for(int i = 1; i <= 1000; i++)
             {
                 if((i%3==0)&&(i%5==0))
                 {
