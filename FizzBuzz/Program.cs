@@ -40,8 +40,15 @@ namespace FizzBuzz
                 {
                     System.Console.WriteLine(i);
                     
-                }
+                }           
             }
+
+            // Inserting blank line on console for visual clarity
+            System.Console.WriteLine("");
+
+            System.Console.WriteLine($"Fizz count is {fizzCount}.");
+            System.Console.WriteLine($"Buzz count is {buzzCount}.");
+            System.Console.WriteLine($"Fizzbuzz count is {fizzbuzzCount}.");
         }
     }
 }
