@@ -31,11 +31,12 @@ namespace FizzBuzz.UI
                 {
                     Console.WriteLine(i);
                 }
-                Console.WriteLine("Fizz: " + fizz);
-                Console.WriteLine("Buzz: " + buzz);
-                Console.WriteLine("FizzBuzz: " + fizzbuzz);
+                
                 
             }
+            Console.WriteLine("Fizz: " + fizz);
+            Console.WriteLine("Buzz: " + buzz);
+            Console.WriteLine("FizzBuzz: " + fizzbuzz);
         }
     }
 }
