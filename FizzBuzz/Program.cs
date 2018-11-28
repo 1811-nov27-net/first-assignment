@@ -9,9 +9,8 @@ namespace FizzBuzz
             int fizzCount = 0;
             int buzzCount = 0;
             int fizzBuzzCount = 0;
-            for(int i = 0; i < 1000; i++)
+            for(int i = 1; i <= 1000; i++)
             {
-
                 if(i % 3 == 0 && i % 5 != 0)
                 {
                     System.Console.WriteLine("Fizz");
@@ -29,8 +28,6 @@ namespace FizzBuzz
                 }
                 else
                     System.Console.WriteLine(i);
-
-
 
             }
 
