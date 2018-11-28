@@ -1,0 +1,11 @@
+C:\revature\first-assignment\FizzBuzz\FizzBuzz.UI\bin\MCD\Debug\netcoreapp2.1\FizzBuzz.UI.deps.json
+C:\revature\first-assignment\FizzBuzz\FizzBuzz.UI\bin\MCD\Debug\netcoreapp2.1\FizzBuzz.UI.runtimeconfig.json
+C:\revature\first-assignment\FizzBuzz\FizzBuzz.UI\bin\MCD\Debug\netcoreapp2.1\FizzBuzz.UI.runtimeconfig.dev.json
+C:\revature\first-assignment\FizzBuzz\FizzBuzz.UI\bin\MCD\Debug\netcoreapp2.1\FizzBuzz.UI.dll
+C:\revature\first-assignment\FizzBuzz\FizzBuzz.UI\bin\MCD\Debug\netcoreapp2.1\FizzBuzz.UI.pdb
+C:\revature\first-assignment\FizzBuzz\FizzBuzz.UI\obj\MCD\Debug\netcoreapp2.1\FizzBuzz.UI.csprojAssemblyReference.cache
+C:\revature\first-assignment\FizzBuzz\FizzBuzz.UI\obj\MCD\Debug\netcoreapp2.1\FizzBuzz.UI.csproj.CoreCompileInputs.cache
+C:\revature\first-assignment\FizzBuzz\FizzBuzz.UI\obj\MCD\Debug\netcoreapp2.1\FizzBuzz.UI.AssemblyInfoInputs.cache
+C:\revature\first-assignment\FizzBuzz\FizzBuzz.UI\obj\MCD\Debug\netcoreapp2.1\FizzBuzz.UI.AssemblyInfo.cs
+C:\revature\first-assignment\FizzBuzz\FizzBuzz.UI\obj\MCD\Debug\netcoreapp2.1\FizzBuzz.UI.dll
+C:\revature\first-assignment\FizzBuzz\FizzBuzz.UI\obj\MCD\Debug\netcoreapp2.1\FizzBuzz.UI.pdb
